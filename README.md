@@ -9,7 +9,7 @@ Os arquivos fornecidos pelo TSE estão no formato CSV. Planilhas possuem várias
 
 O objetivo desse projeto é disponibilizar estes dados num banco de dados para poder consultar de forma mais fácil e rápida, além de permitir que estes dados sejam consumidos de forma mais apropriada por outras aplicações.
 
-O processo de automatização inclui limpeza dos dados, conversão dos dados para os tipos apropriados e padronização. Os arquivos fornecidos pelo TSE o formato dos arquivos e dos dados variam pelo tipo de arquivo e também variam um ano para outro.
+Nos arquivos fornecidos pelo TSE, o formato dos arquivos e dos dados variam pelo tipo de arquivo e também variam um ano para outro. O processo de automatização inclui limpeza dos dados, conversão dos dados para os tipos apropriados e padronização.
 
 ### Requerimentos
 
