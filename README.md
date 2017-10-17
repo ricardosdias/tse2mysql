@@ -1,5 +1,5 @@
 # tse2mysql
-Importa os eleitorais do TSE para um banco de dados MySQL
+Importa os dados eleitorais do TSE para um banco de dados MySQL
 
 ### Objetivo
 
